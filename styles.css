@@ -12,6 +12,7 @@ header{
 	padding:20px;
 	margin:10px;
 	display:flex;
+	text-align:center;
 	flex-wrap:wrap;
 	justify-content:center;
 }
